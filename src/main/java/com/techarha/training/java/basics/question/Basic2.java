@@ -23,4 +23,4 @@ public class Basic2 {
 
 }
 
-//TODO Write a program that simulates coin-flipping. and use Basic2's main method to call and execute it.
+//TODO Write a program that simulates coin-tossing. and use Basic2's main method to call and execute it.
