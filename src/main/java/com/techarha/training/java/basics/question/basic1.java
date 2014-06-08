@@ -1,22 +1,20 @@
 package com.techarha.training.java.basics.question;
 
 /**
- *@question Write a program that uses the “short” and normal form of print statement. (TIJ-4 (1))
+ *@question1 Write a program that uses the “short” data type and print statement to print its value. (TIJ-4 (1))
  *@explaination create a class and main method in that class. Now declare and initialize a method local variable of type short and print its value.
  *
+ *@question2 Write a program that calculates velocity using a constant distance and a constant time. (TIJ-4 (4))
+ *@explaination Create a class Vehicle, with two instance variables distance and time, which must be initialized, and then create
+ * a method to calculate and return velocity.
+ * 
  * @author ankit.
  */
 public class Basic1 {
 
-    //TODO create a class and main method in that class. Now declare and initialize a method local variable of type short and print its value.
+    //TODO create a class and main method in that class. Now declare and initialize a method local variable of type short and print its value.(#Question1)
 
 }
 
 
-/**
- *@question Write a program that calculates velocity using a constant distance and a constant time. (TIJ-4 (4))
- * @explaination Create a class Vehicle, with two instance variables distance and time, which must be initialized, and then create
- * a method to calculate and return velocity.
- *
- */
-//TODO Write a program that calculates velocity using a constant distance and a constant time.
+//TODO Write a program that calculates velocity using a constant distance and a constant time.(#Question2)
